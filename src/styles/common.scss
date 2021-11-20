@@ -1,0 +1,14 @@
+@import './variables.scss';
+
+* {
+  list-style: none;
+}
+
+body {
+  background: #fafafa;
+}
+
+input {
+  outline: none;
+  border: 1px solid $color-outline;
+}
